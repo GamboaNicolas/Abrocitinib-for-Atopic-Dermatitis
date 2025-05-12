@@ -40,7 +40,7 @@ knitr::include_graphics("Archivos/logounr.png")
 \vspace{1cm}
 
 \Large
-**Trabajo Práctico 2: Análisis de un ensayo clínico**
+**Trabajo Práctico 2: Análisis de un Ensayo Clínico**
 
 
 \vspace{0.3cm}
@@ -83,7 +83,7 @@ La revista donde se publicó es “JAMA Network” en la sección “JAMA Dermat
 
 ## Tipo de ensayo
 
-Se trata de un ensayo clínico paralelo con 5 grupos, correspondientes a 4 dosis diferentes de Abrocitinib y un placebo, de fase 2, doble ciego y multicéntrico. -se trabajó en 58 centros de Australia, Canadá, Alemanía, EEUU y Hungría-. La investigación fue aprobada en cada uno de los centros por comités de ética y siguiendo la Declaración de Helsinki y las pautas de las Directrices de Buenas Prácticas Clínicas del Consejo Internacional para la Armonización; además los pacientes dieron su consentimiento informado por escrito.
+Se trata de un ensayo clínico paralelo con 5 grupos, correspondientes a 4 dosis diferentes de Abrocitinib y un placebo, de fase 2, doble ciego y multicéntrico. -se trabajó en 58 centros de Australia, Canadá, Alemanía, EEUU y Hungría-. La investigación fue aprobada en cada uno de los centros por comités de ética y siguiendo la Declaración de Helsinki y las pautas de las Directrices de Buenas Prácticas Clínicas del Consejo Internacional para la Armonización, además los pacientes dieron su consentimiento informado por escrito.
 
 ## Criterios de inclusión y exclusión
 Se admitieron personas entre 18 y 75 años diagnosticadas con dermatitis atópica moderada a grave, con al menos un año de evolución antes del inicio del estudio y que hayan tenido contraindicación o respuesta inadecuada a los medicamentos tópicos durante al menos 4 semanas en un plazo de 12 meses previos a la primera dosis del medicamento del estudio. 
@@ -94,8 +94,8 @@ Algunos criterios de exclusión fueron: Antecedentes de infección por el virus 
 -  En las 12 semanas previas: Participación en estudios con inhibidores de JAK u otros agentes biológicos.
 -  En las 8 semanas previas: Participación en otros estudios que involucren medicamentos en investigación.
 -  En las 6 semanas previas: Haber recibido una vacuna viva o atenuada.
--  En las 4 semanas previas: Uso de inmunosupresores orales; fototerapia (UVB de banda estrecha o banda ancha); uso regular (más de 2 veces por semana) de cabinas o salones de bronceado.
--  En la semana previa: Tratamientos tópicos que puedan afectar la dermatitis atópica; medicamentos herbales con propiedades desconocidas o con efectos conocidos beneficiosos para la dermatitis atópica.
+-  En las 4 semanas previas: Uso de inmunosupresores orales, fototerapia (UVB de banda estrecha o banda ancha), uso regular (más de 2 veces por semana) de cabinas o salones de bronceado.
+-  En la semana previa: Tratamientos tópicos que puedan afectar la dermatitis atópica, medicamentos herbales con propiedades desconocidas o con efectos conocidos beneficiosos para la dermatitis atópica.
 
 
 ## Aleatorización
@@ -109,14 +109,14 @@ Además se aplicaron diferentes métodos estadísticos según los objetivos que 
 
 -  Objetivo primario: evaluar la proporción de pacientes que alcanzaron una IGA de limpio (0) o casi limpio (1) con una mejoría desde el inicio de 2 grados o más en la semana 12.
 -  Método: diferencia de proporciones con aproximación normal.
--  Hipótesis a probar: La proporción de pacientes que alcanzaron un IGA de limpio (0) o casi limpio (1), con una mejoría de al menos 2 grados desde el inicio en la semana 12, fue mayor en los grupos que recibieron la droga que en los que recibieron placebo. Estamos hablando de una hipótesis de superioridad.
--  Objetivo secundario n°1: evaluar el cambio porcentual desde el inicio en EASI en     la semana 12.
+-  Hipótesis a probar: La proporción de pacientes que alcanzaron un IGA de limpio (0) o casi limpio (1), con una mejoría de al menos 2 grados desde el inicio en la semana 12, fue mayor en los grupos que recibieron la droga que en los que recibieron placebo. Se habla de una hipótesis de superioridad.
+-  Objetivo secundario n°1: evaluar el cambio porcentual desde el inicio en EASI en la semana 12.
 -  Método: modelo de medidas repetidas con efectos mixtos, asumiendo que faltaban datos al azar.
 -  Objetivo secundario n°2: evaluar la proporción de pacientes que alcanzaron una IGA de limpio o casi limpio con una mejoría de 2 grados o más.
 -  Método: modelo lineal generalizado mixto, asumiendo datos faltantes al azar.
 
 
-Los datos faltantes se debieron a pacientes que interrumpieron el tratamiento o consumieron medicamentos prohibidos para tratar las dermatitis atópica; el suponer que las faltas fueron al azar resultó en una buena aproximación basada en el patrón de interrupciones y el análisis de sensibilidad.
+Los datos faltantes se debieron a pacientes que interrumpieron el tratamiento o consumieron medicamentos prohibidos para tratar las dermatitis atópica, el suponer que las faltas fueron al azar resultó en una buena aproximación basada en el patrón de interrupciones y el análisis de sensibilidad.
 
 
 
